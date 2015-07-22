@@ -1,0 +1,20 @@
+{
+  "name": "TheLocal",
+  "version": "0.5.9",
+  "homepage": "https://github.com/JeffPinkston/web-starter-kit",
+  "authors": [
+    "Jeff Pinkston"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
